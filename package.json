@@ -81,5 +81,14 @@
     "platforms": [
       "android"
     ]
+  },
+  "main": "karma.conf.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Emmanuel44888/ionic-side-menu-app-main-clone.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Emmanuel44888/ionic-side-menu-app-main-clone/issues"
   }
 }
